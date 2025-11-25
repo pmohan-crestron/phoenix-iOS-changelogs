@@ -1,0 +1,23 @@
+Phoenix iOS Nightly – Version Phoenix_Nightly_2025112504
+===========================================================
+Generated on: 2025-11-25 08:32 CST
+Branch: HEAD
+Previous commit SHA: 56d03a492cdd32f2487bbbbea92bd8a972ede767
+===========================================================
+
+6a1a71b0c2 Update azure-nightly-pipeline.yml for Azure Pipelines (akhilnaths-crestron, 2025-11-25 20:00:55 +0530)
+ebcaa3f5b9 Update azure-nightly-pipeline.yml for Azure Pipelines (akhilnaths-crestron, 2025-11-25 20:00:17 +0530)
+2257f04ad0 Update azure-nightly-pipeline.yml for Azure Pipelines (akhilnaths-crestron, 2025-11-25 19:57:23 +0530)
+52b9c8be55 Update azure-nightly-pipeline.yml for Azure Pipelines (akhilnaths-crestron, 2025-11-25 16:00:50 +0530)
+70b1783a8c Update azure-nightly-pipeline.yml for Azure Pipelines (akhilnaths-crestron, 2025-11-25 13:38:04 +0530)
+3fc5dcf840 Update azure-nightly-pipeline.yml for Azure Pipelines (akhilnaths-crestron, 2025-11-24 11:56:31 +0530)
+bc18eeaadd Update azure-nightly-pipeline.yml for Azure Pipelines (akhilnaths-crestron, 2025-11-24 11:12:40 +0530)
+35f1797021 adding debug prints (akhilnaths-crestron, 2025-11-24 11:07:31 +0530)
+591c49e11d adding debug prints (akhilnaths-crestron, 2025-11-24 11:02:08 +0530)
+3e3b47d8ee Update azure-nightly-pipeline.yml for Azure Pipelines (akhilnaths-crestron, 2025-11-21 16:03:16 +0530)
+3bd68b8fdb Update azure-nightly-pipeline.yml for Azure Pipelines (akhilnaths-crestron, 2025-11-21 15:11:24 +0530)
+ebb93058e0 Update azure-nightly-pipeline.yml for Azure Pipelines (akhilnaths-crestron, 2025-11-21 15:03:48 +0530)
+31ac6e19c0 Update azure-nightly-pipeline.yml for Azure Pipelines (akhilnaths-crestron, 2025-11-21 12:45:40 +0530)
+678c586e93 Update azure-nightly-pipeline.yml for Azure Pipelines (akhilnaths-crestron, 2025-11-19 08:16:26 +0530)
+bcaf2e2200 Update azure-nightly-pipeline.yml for Azure Pipelines (akhilnaths-crestron, 2025-11-18 15:42:25 +0530)
+3aac59dcf0 Update azure-nightly-pipeline.yml for Azure Pipelines (akhilnaths-crestron, 2025-11-18 15:37:03 +0530)
