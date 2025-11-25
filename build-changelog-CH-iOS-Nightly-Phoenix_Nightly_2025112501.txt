@@ -1,0 +1,19 @@
+Phoenix iOS Nightly – Version Phoenix_Nightly_2025112501
+===========================================================
+Generated on: 2025-11-25 02:09 CST
+Branch: HEAD
+Previous commit SHA: bcc257f38a133254fe9ca50db5665fb7475ee9f3
+===========================================================
+
+70b1783a8c Update azure-nightly-pipeline.yml for Azure Pipelines (akhilnaths-crestron, 2025-11-25 13:38:04 +0530)
+3fc5dcf840 Update azure-nightly-pipeline.yml for Azure Pipelines (akhilnaths-crestron, 2025-11-24 11:56:31 +0530)
+bc18eeaadd Update azure-nightly-pipeline.yml for Azure Pipelines (akhilnaths-crestron, 2025-11-24 11:12:40 +0530)
+35f1797021 adding debug prints (akhilnaths-crestron, 2025-11-24 11:07:31 +0530)
+591c49e11d adding debug prints (akhilnaths-crestron, 2025-11-24 11:02:08 +0530)
+3e3b47d8ee Update azure-nightly-pipeline.yml for Azure Pipelines (akhilnaths-crestron, 2025-11-21 16:03:16 +0530)
+3bd68b8fdb Update azure-nightly-pipeline.yml for Azure Pipelines (akhilnaths-crestron, 2025-11-21 15:11:24 +0530)
+ebb93058e0 Update azure-nightly-pipeline.yml for Azure Pipelines (akhilnaths-crestron, 2025-11-21 15:03:48 +0530)
+31ac6e19c0 Update azure-nightly-pipeline.yml for Azure Pipelines (akhilnaths-crestron, 2025-11-21 12:45:40 +0530)
+678c586e93 Update azure-nightly-pipeline.yml for Azure Pipelines (akhilnaths-crestron, 2025-11-19 08:16:26 +0530)
+bcaf2e2200 Update azure-nightly-pipeline.yml for Azure Pipelines (akhilnaths-crestron, 2025-11-18 15:42:25 +0530)
+3aac59dcf0 Update azure-nightly-pipeline.yml for Azure Pipelines (akhilnaths-crestron, 2025-11-18 15:37:03 +0530)
