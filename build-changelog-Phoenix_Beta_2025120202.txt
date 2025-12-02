@@ -1,4 +1,0 @@
-### Phoenix iOS Beta – Version Phoenix_Beta_2025120202
-**Generated on:** 2025-12-02 01:22 CST
-**Branch:** HEAD
-Initial build — no changelog to compare.
