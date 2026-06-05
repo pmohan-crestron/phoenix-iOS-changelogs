@@ -1,0 +1,8 @@
+Phoenix iOS RC – Version Phoenix_RC_2026060505
+===========================================================
+Generated on: 2026-06-05 02:48 EDT
+Branch: azure-pipelines-MOBILE-392
+Previous commit SHA: ed0621770340fc4a2b840eee00f9a9073e51c170
+===========================================================
+
+64cd87a4a7 MOBILE-392 migrate simulator zip packaging to python (pmohan-crestron, 2026-06-05 12:17:24 +0530)
