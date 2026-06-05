@@ -1,0 +1,8 @@
+Phoenix iOS RC – Version Phoenix_RC_2026060509
+===========================================================
+Generated on: 2026-06-05 05:29 EDT
+Branch: azure-pipelines-MOBILE-392
+Previous commit SHA: 0cb251b254b6a24ec20b0df585e924b80f2659c4
+===========================================================
+
+cac96cf883 MOBILE-392 add logging for simulator zip listing (pmohan-crestron, 2026-06-05 14:58:09 +0530)
