@@ -1,0 +1,8 @@
+Phoenix iOS RC – Version Phoenix_RC_2026060507
+===========================================================
+Generated on: 2026-06-05 03:05 CDT
+Branch: azure-pipelines-MOBILE-392
+Previous commit SHA: 99bf46a06ab866914fe1a82af41d1ce7691101e5
+===========================================================
+
+f7e8696917 MOBILE-392 harden simulator zip upload script (pmohan-crestron, 2026-06-05 13:34:36 +0530)
