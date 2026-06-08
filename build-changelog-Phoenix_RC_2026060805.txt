@@ -1,0 +1,11 @@
+Phoenix iOS RC – Version Phoenix_RC_2026060805
+===========================================================
+Generated on: 2026-06-08 03:57 EDT
+Branch: azure-pipelines-MOBILE-392
+Previous commit SHA: cac96cf8835a7794ece55624642b7c53076307eb
+===========================================================
+
+42dff65102 MOBILE-392 fix simulator index generation script entrypoint (pmohan-crestron, 2026-06-08 13:26:28 +0530)
+eaa31bcbd4 MOBILE-392 wire artifact staging path for blob scripts (pmohan-crestron, 2026-06-08 12:22:36 +0530)
+67029747cf MOBILE-392 clean Xcode cache before simulator build~ (pmohan-crestron, 2026-06-08 11:55:15 +0530)
+1cd57d3e85 MOBILE-392 migrate simulator index generation to python (pmohan-crestron, 2026-06-08 10:44:20 +0530)
