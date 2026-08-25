@@ -1,0 +1,4 @@
+### Phoenix iOS RC – Version Phoenix_RC_2026082501
+**Generated on:** 2026-08-25 15:33 EDT
+**Branch:** 4.12
+Initial build — no changelog to compare.
