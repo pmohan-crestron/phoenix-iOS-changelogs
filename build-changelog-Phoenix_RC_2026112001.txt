@@ -1,0 +1,12 @@
+Phoenix iOS RC – Version Phoenix_RC_2026112001
+===========================================================
+Generated on: 2026-11-20 09:40 CST
+Branch: 4.13
+Previous commit SHA: 892b5a049ae9a9efbc45bfce3254e813a1565b96
+===========================================================
+
+8fcd373d00 [CHOME-132734] Stop remote re-render loop on multi-display remotes (#7674) (asingh-crestron, 2026-11-20 20:39:24 +0530)
+4113f3577b Merge pull request #7667 from CrestronEng/CHOME-132546 (Michael Gaines, 2026-11-20 09:04:28 -0500)
+ebd24de4de CHOME-132525: Fix RemoteDPadView button taps and pressed-state flicker (#7669) (Sunil Aruru, 2026-11-20 15:01:19 +0530)
+a0fb16dbaf CHOME-132546 - Fix Cloud Relay reconnect issues and CarPlay crash (Michael Gaines, 2026-11-18 17:03:30 -0500)
+bd4e11d174 CHOME-131411: Route to Rapid first screen after first login (#7627) (mlaskar-crestron, 2026-11-16 19:22:00 +0530)
